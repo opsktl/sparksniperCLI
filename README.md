@@ -1,5 +1,4 @@
-CLI sniper for sparksat.app market
-WINDOWS x64 / MACOS ARM-SILICON
+CLI sniper for sparksat.app market | WINDOWS x64 / MACOS ARM-SILICON
 
 Create a **.env** file in the project root and add the following lines:
 
